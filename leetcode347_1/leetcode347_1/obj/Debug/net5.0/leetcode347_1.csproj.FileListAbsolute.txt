@@ -1,0 +1,16 @@
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.exe
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.deps.json
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.runtimeconfig.json
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.runtimeconfig.dev.json
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.dll
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\ref\leetcode347_1.dll
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\bin\Debug\net5.0\leetcode347_1.pdb
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.csprojAssemblyReference.cache
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.AssemblyInfoInputs.cache
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.AssemblyInfo.cs
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.csproj.CoreCompileInputs.cache
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.dll
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\ref\leetcode347_1.dll
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.pdb
+D:\work\coding\VS projects\leetcode347_1\leetcode347_1\obj\Debug\net5.0\leetcode347_1.genruntimeconfig.cache
